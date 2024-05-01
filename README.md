@@ -1,16 +1,25 @@
-# connect_z
+# ConnectZ-SocialMediaApp
 
-A new Flutter project.
+ConnectZ is a social media application developed using Flutter, It provides a platform for users to share their thoughts, photos and interact with each other in various ways.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User Authentication**: Users can sign up and log in securely using their email address and password.
 
-A few resources to get you started if this is your first Flutter project:
+- **Profile Management**: Users can create and customize their profiles, including adding profile pictures, bios, and other information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Post Creation and Sharing**: Users can create posts consisting of text, photos or a combination of these, and share them with their followers or the public.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Feed**: Users have access to a personalized feed where they can view posts from users they follow.
+
+- **Interactions**: Users can like and comment on the posts.
+
+- **Chat**: Users can chat with eachothers thrugh our application's chats feature.
+
+## Note
+
+This project is created for learning purposes only. All media files available in the project, including images and other content, are used solely for demonstration purposes.
+
+## Contributing
+
+Contributions to this project are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.

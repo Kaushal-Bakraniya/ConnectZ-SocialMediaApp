@@ -19,7 +19,3 @@ ConnectZ is a social media application developed using Flutter, It provides a pl
 ## Note
 
 This project is created for learning purposes only. All media files available in the project, including images and other content, are used solely for demonstration purposes.
-
-## Contributing
-
-Contributions to this project are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
